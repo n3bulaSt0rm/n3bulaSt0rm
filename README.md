@@ -1,71 +1,95 @@
-# Hi there, I'm Hai 👋
+# Hi there, I'm n3bulaSt0rm 👋
+
+<a href="https://github.com/n3bulaSt0rm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n3bulaSt0rm&show_icons=true&theme=dracula&line_height=27" alt="n3bulaSt0rm's github stats"/>
+</a>
+<a href="https://github.com/n3bulaSt0rm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3bulaSt0rm&layout=compact&theme=dracula" />
+</a>
 
 <br/>
+<br/>
 
-I'm a **Software Engineer** and an **M.Sc. candidate in Computer Science** at **Hanoi University of Science and Technology (HUST)**, where I also completed my B.Sc. in Computer Engineering with a 3.53 GPA.
-
-My passion lies at the intersection of **distributed systems**, **cloud-native applications**, and **artificial intelligence**. I enjoy crafting software that is not only scalable and performant but also intelligent and impactful.
-
----
-
-### 🔭 What I'm Working On
-
--   🧠 **[AI-Powered Knowledge Management Platform](https://github.com/n3bulaSt0rm/ai-agent)**  
-    *An intelligent platform using a RAG pipeline to turn documents and emails into a searchable knowledge base.*
-    -   *Tech*: `Python`, `FastAPI`, `React`, `Qdrant`, `Docker`, `Gemini API`.
-
--   🎯 **Distributed OKR Management System**  
-    *A microservices-based platform for teams to set, track, and measure Objectives & Key Results (OKRs).*
-    -   *Tech*: `.NET Core`, `PostgreSQL`, `Docker`.
-    -   *Result*: Reduced task management overhead by **40%** through workflow automation.
+I'm a passionate Software Engineer and a Master's candidate in Computer Science, driven by the challenge of building intelligent and scalable systems.
 
 ---
 
-### 🌱 I'm Currently Learning
+### 👨‍💻 About Me
 
--   Advanced **Cloud Native** architectures (`Kubernetes`, `Istio`)
--   **Machine Learning Operations (MLOps)** pipelines (`TensorFlow`, `Kubeflow`)
--   Modern **DevSecOps** practices for secure and automated CI/CD
+- 🎓 I hold a Bachelor's degree in **Computer Engineering** from **Hanoi University of Science and Technology (HUST)** with a distinguished GPA of **3.53/4.0**.
+- 🚀 Currently, I'm deepening my expertise by pursuing a **Master of Science in Computer Science** at HUST.
+- 💼 Alongside my studies, I work as a **Software Engineer**, applying academic concepts to solve real-world problems.
+- 🌱 My primary interests lie in **Artificial Intelligence, System Design, and Cloud-native technologies**. I'm always excited to learn and work with new tools and paradigms.
 
 ---
 
-### 💻 My Tech Stack
+### 🛠️ My Tech Stack
 
-<p>
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-  <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+Here are some of the technologies I've been working with:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://golang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+   <a href="https://redis.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="kafka" width="40" height="40"/>
+  </a>
+   <a href="https://www.splunk.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/splunk/000000" alt="splunk" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
 </p>
-<br clear="both"/>
 
 ---
 
-### 📊 My GitHub Stats
+### 📫 How to reach me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3bulaSt0rm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="n3bulaSt0rm's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3bulaSt0rm&layout=compact&theme=tokyonight&hide_border=true" alt="n3bulaSt0rm's Top Languages" />
+<p align="left">
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="your-email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="your-linkedin" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📫 How to Reach Me
-
--   ✉️ **Email**: `hai.pt.hust@gmail.com`
--   🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-### ⚡ Fun Fact
-
--   I once optimized a legacy parser to process **10×** more data within the same time window.
--   When I'm not coding, I'm usually rock climbing 🧗 or on the hunt for the perfect cup of coffee ☕.
-
----
-
-> "Innovation distinguishes between a leader and a follower." – Steve Jobs 
+<p align="center">⭐️ From n3bulaSt0rm</p> 

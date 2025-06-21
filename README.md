@@ -3,10 +3,6 @@
 <a href="https://github.com/n3bulaSt0rm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=n3bulaSt0rm&show_icons=true&theme=dracula&line_height=27" alt="n3bulaSt0rm's github stats"/>
 </a>
-<a href="https://github.com/n3bulaSt0rm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3bulaSt0rm&layout=compact&theme=dracula" />
-</a>
-
 <br/>
 <br/>
 
@@ -41,7 +37,7 @@ Here are some of the technologies I've been working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-    <img src="https://cdn.simpleicons.org/dot-net/FFFFFF" alt="dotnet" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/dotnet/FFFFFF" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -74,16 +70,3 @@ Here are some of the technologies I've been working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📫 How to reach me
-
-<p align="left">
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="your-email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="your-linkedin" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">⭐️ From n3bulaSt0rm</p> 

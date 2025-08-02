@@ -12,7 +12,7 @@ I'm a passionate Software Engineer and a Master's candidate in Computer Science,
 
 ### 👨‍💻 About Me
 
-- 🎓 I hold a Bachelor's degree in **Computer Engineering** from **Hanoi University of Science and Technology (HUST)** with a distinguished GPA of **3.53/4.0**.
+- 🎓 I hold a Bachelor's degree in **Computer Engineering** from **Hanoi University of Science and Technology (HUST)** with a distinguished GPA of **3.49/4.0**.
 - 🚀 Currently, I'm deepening my expertise by pursuing a **Master of Science in Computer Science** at HUST.
 - 💼 Alongside my studies, I work as a **Software Engineer**, applying theoretical knowledge to tackle professional, industry-level challenges.
 - 🌱 My primary interests lie in **Artificial Intelligence, System Design, and Cloud-native technologies**. I'm always excited to learn and work with new tools and paradigms.
